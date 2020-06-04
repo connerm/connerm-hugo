@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Conner McConkey</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Conner McConkey</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>connermcconkey@gmail.com (Conner Mconkey)</managingEditor>
+            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 16:11:32 -0700</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Welcome</title>
+    <link>http://example.org/welcome/</link>
+    <pubDate>Thu, 04 Jun 2020 16:11:32 -0700</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/welcome/</guid>
+    <description><![CDATA[Hello, this is the first post on my blog. This is a test post and will likely be removed in the future.
+Take care, Conner]]></description>
+</item></channel>
+</rss>
