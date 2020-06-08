@@ -5,16 +5,21 @@ draft: false
 ---
 Hello,
 
-You have reached my personal website. I'm using as a place to share my contact information and host a simple blog.
+You have reached my personal website. It is a place for me to share my
+contact information and host a simple blog.
 
 ### Professional
 
-I am a Senior Systems Analyst at the University of Victoria, on the Production and Technical Support team. I help manage the enterprise software systems at the university. 
+I am a Senior Systems Analyst at the University of Victoria. I help
+manage the enterprise software systems at the university.
 
 Here are some of the things I have been working on:
-* Jenkinks continuous integration
-* Ansible configuration managment
-* Miscroft SQL Server administration
+
+-   Jenkins continuous integration
+
+-   Ansible configuration management
+
+-   Microsoft SQL Server administration
 
 If you would like to know more about my career, please check out my [résumé](../ConnerMcConkey-Resume.pdf).
 

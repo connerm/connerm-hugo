@@ -2,6 +2,8 @@
 title: "Website Architecture"
 date: 2020-06-04T18:41:02-07:00
 draft: false
+tags: ["technology","hugo","markdown"]
+categories: ["Technology"]
 ---
 This blog is a static website, meaning it is made only of simple HTML,
 CSS, and JavaScipt files. There is no back end server to process or
