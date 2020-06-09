@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://connermcconkey.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -49,7 +49,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Conner's wee corner of the web."
+  description = "Conner's personal website."
   # site keywords
   keywords = ["Conner", "McConkey"]
   # site default theme ("light", "dark", "auto")
@@ -168,7 +168,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.jpg"
       #  title shown in home page (HTML format is supported)
-      title = "Conner's Corner"
+      title = ""
       # subtitle shown in home page
       subtitle = "Welcome to Conner's Corner - my weird little corner of the web."
       # whether to use typeit animation for subtitle
@@ -250,7 +250,7 @@ theme = "LoveIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "connermcconkey@gmail.com"
+    Email = "hello@connermcconkey.com"
     RSS = true # 
 
   #  Page config
@@ -443,7 +443,7 @@ theme = "LoveIt"
     # character used for the cursor (HTML format is supported)
     cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
-    duration = -1
+    duration = 5
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
@@ -462,12 +462,12 @@ theme = "LoveIt"
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "UA-168898898-1"
       # whether to anonymize IP
-      anonymizeIP = true
+      anonymizeIP = false
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
